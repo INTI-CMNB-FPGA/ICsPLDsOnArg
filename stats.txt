@@ -1,0 +1,18 @@
+Total: 32
+
+Por tipo:
+* Empresas:      13
+* Organismos:    7
+* Universidades: 12
+
+Por provincia:
+* Buenos Aires        :  14
+* Córdoba            :   8
+* Entre Ríos         :   1
+* Mendoza             :   1
+* Río Negro          :   2
+* San Juan            :   2
+* San Luís           :   2
+* Santa Fe            :   2
+
+Actualizado: 01-04-2016 16:06:28
