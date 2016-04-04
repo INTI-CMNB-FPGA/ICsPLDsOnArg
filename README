@@ -132,7 +132,7 @@ Enertronics AR
 * Trabajos:      IP cores: PWM para control de electrónica de potencia.
                  Múltiples convertidores Boost controlados por FPGA.
 * Involucrados:  3
-* Actualización: 22-03-2016
+* Actualización: 01-04-2016
 
 
 Emtech
@@ -308,8 +308,8 @@ Laboratorio de Microelectrónica
 
 
 Universidad de Buenos Aires (UBA)
-Facultad de Ingenieria
-Grupo de Procesamiento de Señales, Identificacion y Control
+Facultad de Ingeniería
+Grupo de Procesamiento de Señales, Identificación y Control
 * Tipo:          universidad
 * Ubicación:     Buenos Aires - CABA
 * Web:           psic.fi.uba.ar
@@ -318,6 +318,23 @@ Grupo de Procesamiento de Señales, Identificacion y Control
 * Trabajos:      SoCs basados en LEON3/GRLIB.
 * Involucrados:  1
 * Actualización: 03-04-2016
+
+
+Universidad de Buenos Aires (UBA)
+Laboratorio de Microelectrónica (LM)
+* Tipo:          universidad
+* Ubicación:     Buenos Aires - CABA
+* Web:           materias.fi.uba.ar/6661/labmicro
+* Temas:         Arquitectura de microcontroladores, algoritmos de
+                 procesamiento de señales, circuitos asincrónicos.
+                 Sistemas RFID.
+                 Estudio y desarrollo de PDKs.
+                 ASICs. Herramientas de Synopsys y Mentor Graphics.
+                 Sensores CMOS, Optoelectrónica, Circuitos de capacitores
+                 conmutados, Amp. de instrumentación, Amp. de bajo ruido.
+* Trabajos:      N/A
+* Involucrados:  10+
+* Actualización: 01-04-2016
 
 
 Universidad Nacional del Centro de la Provincia de Buenos Aires
@@ -333,6 +350,16 @@ Departamento de Computación y Sistemas
 * Actualización: 22-03-2016
 
 
+Universidad Nacional del Comahue
+* Tipo:          universidad
+* Ubicación:     Neuquén
+* Web:           www.uncoma.edu.ar
+* Temas:         ASICs.
+* Trabajos:      N/A
+* Involucrados:  N/A
+* Actualización: 01-04-2016
+
+
 Universidad Nacional de Córdoba (UNC)
 Laboratorio de Comunicaciones Digitales (LCD)
 * Tipo:          universidad
@@ -343,7 +370,7 @@ Laboratorio de Comunicaciones Digitales (LCD)
                  Emulación sobre FPGAs. Verilog y SystemVerilog.
 * Trabajos:      N/A
 * Involucrados:  N/A
-* Actualización: 16-03-2016
+* Actualización: 01-04-2016
 
 
 Universidad Nacional de Mar del Plata, Facultad de Ingeniería
@@ -398,6 +425,19 @@ Laboratorio de Electrónica, Investigación y Servicios (LEIS)
                  electrónica de potencia.
 * Involucrados:  <10
 * Actualización: 22-03-2016
+
+
+Universidad Tecnológica Nacional (UTN)
+Facultad Regional Buenos Aires (FRBA)
+Laboratorio de Microelectrónica 
+* Tipo:          universidad
+* Ubicación:     Buenos Aires - CABA
+* Web:           www.frba.utn.edu.ar
+* Temas:         ASICs. Herramientas de Synopsys y Mentor Graphics.
+
+* Trabajos:      N/A
+* Involucrados:  N/A
+* Actualización: 01-04-2016
 
 
 Universidad Tecnológica Nacional (UTN)
