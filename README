@@ -155,13 +155,16 @@ Emtech
 
 Instituto de Investigaciones Científicas y Técnicas para la defensa (CITEDEF)
 Departamento de Electrónica Aplicada
+Laboratorio de Navegación y Laboratorio de Técnicas Digitales
 * Tipo:          organismo
 * Ubicación:     Buenos Aires - Villa Martelli
 * Web:           www.citedef.gob.ar
-* Temas:         Trabajos sobre FPGAs.
-* Trabajos:      N/A
+* Temas:         Trabajos sobre FPGAs. VHDL y Vrilog.
+* Trabajos:      Desarrollo de IP asociados a tecnologías UAV, desde control
+                 hasta interfaces de comunicaciones ad-hoc a nivel capa física
+                 para enlaces telemétricos.
 * Involucrados:  N/A
-* Actualización: 29-03-2016
+* Actualización: 04-04-2016
 
 
 Instituto Nacional de Tecnología Industrial (INTI)
