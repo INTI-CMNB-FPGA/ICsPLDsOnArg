@@ -269,6 +269,20 @@ Seltron
 * Actualización: 16-03-2016
 
 
+Slabs
+* Tipo:          empresa
+* Ubicación:     Buenos Aires - CABA
+* Web:           www.slabs.com.ar
+* Temas:         Diseño basado en FPGA: IP cores y PCB.
+                 Sistemas tolerantes a fallas.
+                 DSP.
+* Trabajos:      SoCs basados en LEON3/GRLIB y Xilinx Zynq.
+                 Sistema de navegacion integrada.
+                 Camara multiespectral.
+* Involucrados:  1
+* Actualización: 03-04-2016
+
+
 Universidad Autónoma de Entre Ríos
 Facultad de Ciencia y Tecnología
 Grupo para la Investigación y Desarrollo en Electrónica Digital y
@@ -293,6 +307,19 @@ Laboratorio de Microelectrónica
 * Actualización: 21-03-2016
 
 
+Universidad de Buenos Aires (UBA)
+Facultad de Ingenieria
+Grupo de Procesamiento de Señales, Identificacion y Control
+* Tipo:          universidad
+* Ubicación:     Buenos Aires - CABA
+* Web:           psic.fi.uba.ar
+* Temas:         Aplicaciones aeroespaciales.
+                 Navegacion integrada.
+* Trabajos:      SoCs basados en LEON3/GRLIB.
+* Involucrados:  1
+* Actualización: 03-04-2016
+
+
 Universidad Nacional del Centro de la Provincia de Buenos Aires
 Facultad de Ciencias Exactas
 Instituto de Investigación en Tecnología Informática Avanzada (INTIA)
@@ -310,7 +337,7 @@ Universidad Nacional de Córdoba (UNC)
 Laboratorio de Comunicaciones Digitales (LCD)
 * Tipo:          universidad
 * Ubicación:     Córdoba
-* Web:           lcd.efn.uncor.edu
+* Web:           lcd.efn.unc.edu.ar
 * Temas:         ASICs para comunicaciones.
                  Diseño analógico y digital VLSI. Synopsys, Cadence;
                  Emulación sobre FPGAs. Verilog y SystemVerilog.
