@@ -137,7 +137,7 @@ Enertronics AR
 
 Emtech
 * Tipo:          empresa
-* Ubicación:     Buenos Aires - Bahía Blanca
+* Ubicación:     Buenos Aires - Bahía Blanca & Río Negro - Bariloche (dos sedes)
 * Web:           www.emtech.com.ar
 * Temas:         Diseño de IP Cores para FPGA y ASIC.
                  SoC Design (Zynq).
@@ -233,7 +233,7 @@ Pylos
 
 Raitech
 * Tipo:          empresa
-* Ubicación:     Córdoba
+* Ubicación:     Córdoba & Buenos Aires (dos sedes)
 * Web:           www.raitech.com.ar
 * Temas:         Desarrollo en lógica programables.
 * Trabajos:      N/A
@@ -266,7 +266,7 @@ Satellogic S.A
 Seltron
 * Tipo:          empresa
 * Ubicación:     Córdoba
-* Web:           N/A
+* Web:           seltron.com.ar
 * Temas:         Desarrollos con FPGA para el sector Aeroespacial.
                  Verificación y validación. Norma DO-254.
 * Trabajos:      N/A
@@ -515,9 +515,10 @@ Videoswitch
 
 Cátedras
 * Universidad Tecnológica Nacional (UTN) - Facultad Regional Córdoba (FRC)
-  * TD4: System on Chip on FPGA & PSOC (Cypress) - pablo.cayuela@gmail.com
-  * TD3: DSP blocks on FPGA & PSOC (Cypress) - fedesor@gmail.com
-  * TD1: VHDL, CPLD, FPGA - sergio338@gmail.com
+  * TD4: System on Chip on FPGA & PSOC (Cypress)
+  * TD3: DSP blocks on FPGA & PSOC (Cypress)
+  * TD1: VHDL, CPLD, FPGA
+    * www.profesores.frc.utn.edu.ar/electronica/tecnicasdigitalesI/
 
 Freelancers:
 * Jonathan Orrego''
