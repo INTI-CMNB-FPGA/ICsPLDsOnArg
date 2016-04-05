@@ -1,12 +1,12 @@
-Total: 37
+Total: 38
 
 Por tipo:
 * Empresas:      14
 * Organismos:    7
-* Universidades: 16
+* Universidades: 17
 
 Por provincia:
-* Buenos Aires        :  18
+* Buenos Aires        :  19
 * Córdoba            :   8
 * Entre Ríos         :   1
 * Mendoza             :   1
@@ -16,4 +16,4 @@ Por provincia:
 * San Luís           :   2
 * Santa Fe            :   2
 
-Actualizado: 04-04-2016 11:35:20
+Actualizado: 05-04-2016 11:52:10
