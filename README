@@ -171,12 +171,14 @@ Instituto Nacional de Tecnología Industrial (INTI)
 Centro de Electrónica e Informática - Sector comunicaciones
 * Tipo:          organismo
 * Ubicación:     Buenos Aires - San Martín
-* Web:           www.inti.gob.ar/electronicaeinformatica/
+* Web:           www.inti.gob.ar/electronicaeinformatica/utc
 * Temas:         IPs, FPGAs. VHDL.
-                 Encoding & Decoding. Signal Processing.
-* Trabajos:      Modulador ISDB-T. OFDM.
-* Involucrados:  2+
-* Actualización: 21-03-2016
+                 Encoding & Decoding.
+                 Signal Processing.
+                 Capacitación.
+* Trabajos:      Modulador ISDB-T. OFDM. Ultra-WideBand Radar.
+* Involucrados:  4+
+* Actualización: 05-04-2016
 
 
 Instituto Nacional de Tecnología Industrial (INTI)
@@ -296,7 +298,7 @@ Automatización (GIDEA)
 * Temas:         Grupo de investigación sobre FPGA.
 * Trabajos:      N/A
 * Involucrados:  N/A
-* Actualización: 21-03-2016
+* Actualización: 05-04-2016
 
 
 Universidad Católica de Córdoba (UCC)
@@ -347,10 +349,12 @@ Departamento de Computación y Sistemas
 * Tipo:          universidad
 * Ubicación:     Buenos Aires - Tandil
 * Web:           www.unicen.edu.ar
-* Temas:         Investigación en diseño de sistemas digitales. FPGA.
+* Temas:         FPGA. Verificación funcional.
+                 Investigación en diseño de sistemas digitales.
+                 Microcontroladores, tiempo real.
 * Trabajos:      N/A
-* Involucrados:  N/A
-* Actualización: 22-03-2016
+* Involucrados:  5+
+* Actualización: 05-04-2016
 
 
 Universidad Nacional del Comahue
@@ -419,15 +423,16 @@ Facultad de Ciencias Físico Matemáticas y Naturales
 Laboratorio de Electrónica, Investigación y Servicios (LEIS)
 * Tipo:          universidad
 * Ubicación:     San Luís
-* Web:           www.unsl.edu.ar
+* Web:           leis.unsl.edu.ar
 * Temas:         IP cores para el control de electrónica de potencia,
-                 CPLDs/FPGAs, Mems. VHDL, Verilog.
+                 CPLDs/FPGAs. VHDL, Verilog.
                  TestBenchs Avanzados, Verificación en Hardware Xilinx, Actel
                  (Microsemi), Altera.
 * Trabajos:      IP cores: Modulación Vectorial (SVPWM), PWM para control de
-                 electrónica de potencia.
+                 electrónica de potencia. Oscliloscopio y generador de
+                 funciones virtuales con hardware reconfigurable.
 * Involucrados:  <10
-* Actualización: 22-03-2016
+* Actualización: 05-04-2016
 
 
 Universidad Tecnológica Nacional (UTN)
