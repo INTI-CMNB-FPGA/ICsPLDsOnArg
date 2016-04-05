@@ -20,26 +20,31 @@ for tipo in tipos:
     else:
        otros += 1
 
-print "Total: " + str(empresas+organismos+universidades) + "\n"
-file("stats.txt", 'w').write("Total: " + str(empresas+organismos+universidades) + "\n\n");
+print "%-20s:%4d\n" % ('Total', empresas+organismos+universidades)
+file("stats.txt", 'w').write("%-20s:%4d\n\n" % ('Total', empresas+organismos+universidades));
+
 print "Por tipo:"
 file("stats.txt", 'a').write("Por tipo:\n");
-print "* Empresas:      " + str(empresas)
-file("stats.txt", 'a').write("* Empresas:      " + str(empresas) + "\n");
-print "* Organismos:    " + str(organismos)
-file("stats.txt", 'a').write("* Organismos:    " + str(organismos) + "\n");
-print "* Universidades: " + str(universidades)
-file("stats.txt", 'a').write("* Universidades: " + str(universidades) + "\n");
+print "* %-18s:%4d" % ('Empresas', empresas)
+file("stats.txt", 'a').write("* %-18s:%4d\n" % ('Empresas', empresas));
+print "* %-18s:%4d" % ('Organismos', organismos)
+file("stats.txt", 'a').write("* %-18s:%4d\n" % ('Organismos', organismos));
+print "* %-18s:%4d" % ('Universidades', universidades)
+file("stats.txt", 'a').write("* %-18s:%4d\n" % ('Universidades', universidades));
 if otros > 0:
-   print "Otros:           " + str(otros)
-   file("stats.txt", 'a').write("Otros:      " + str(otros) + "\n");
+   print "* %-18s:%4d" % ('Otros', otros)
+   file("stats.txt", 'a').write("* %-18s:%4d\n" % ('Otros', otros));
 
 print "\nPor provincia:"
 file("stats.txt", 'a').write("\nPor provincia:\n");
 provincias = re.findall('Ubicación:\s*([\w\sáéíóú\/]*)\s', fichas[0]);
 provincias = Counter(provincias)
 for key in sorted(provincias):
-    print "* %-20s: %3s" % (key, str(provincias[key]))
-    file("stats.txt", 'a').write("* %-20s: %3s\n" % (key, str(provincias[key])));
+    if any(i in key for i in 'áéíóú'):
+       print "* %-19s:%4d" % (key, provincias[key])
+       file("stats.txt", 'a').write("* %-19s:%4d\n" % (key, provincias[key]));
+    else:
+       print "* %-18s:%4d" % (key, provincias[key])
+       file("stats.txt", 'a').write("* %-18s:%4d\n" % (key, provincias[key]));
 
-file("stats.txt", 'a').write(strftime("\nActualizado: %d-%m-%Y %H:%M:%S\n"));
+file("stats.txt", 'a').write(strftime("\nActualizado         : %d-%m-%Y %H:%M:%S\n"));
