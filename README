@@ -51,7 +51,8 @@ Allegro MicroSystems Argentina S.A.
 C7 Technology
 * Tipo:          empresa
 * Ubicación:     San Juan - Santa Lucía
-* Web:           c7t-hdl.com, hdl-fpga.blogspot.com.ar
+* Web:           c7t-hdl.com
+                 hdl-fpga.blogspot.com.ar
 * Temas:         Cursos oficiales de Altera para todo Latinoamerica.
                  Servicios a terceros de IP Cores: diseño y verificación.
                  Notas técnicas de interés general.
@@ -304,11 +305,15 @@ Universidad Católica de Córdoba (UCC)
 Laboratorio de Microelectrónica
 * Tipo:          universidad
 * Ubicación:     Córdoba
-* Web:           www2.ucc.edu.ar
-* Temas:         Diseño analógico VLSI
-* Trabajos:      N/A
-* Involucrados:  N/A
-* Actualización: 21-03-2016
+* Web:           www2.ucc.edu.ar/facultades/ingenieria
+                 blog.ucc.edu.ar/microelectronica
+* Temas:         Desarrollo de celdas IP para FPGAs y ASICs.
+                 Diseño de prototipos ASIC.
+* Trabajos:      Test de circuitos integrados y sistemas robustos.
+                 Empleo de técnicas de sistemas tolerantes a fallas en el
+                 diseño de microprocesadores.
+* Involucrados:  4+
+* Actualización: 05-04-2016
 
 
 Universidad de Buenos Aires (UBA)
