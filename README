@@ -187,7 +187,8 @@ Centro de Micro y Nanoelectrónica del Bicentenario (CMNB)
 * Ubicación:     Buenos Aires - San Martín & Bahía Blanca (dos sedes)
 * Web:           www.inti.gob.ar/microynanoelectronica
 * Temas:         IPs, ICs/ASICs, CPLDs/FPGAs, Mems.
-                 VHDL, Verilog, System Verilog. Verificación & code cooverage (UVM).
+                 VHDL, Verilog, System Verilog.
+                 Verificación & code cooverage (UVM).
                  Herramientas licenciadas por Mentor Graphics. Software Libre.
                  Servicios de Capacitación.
                  PCBs con FPGAs.
@@ -195,7 +196,8 @@ Centro de Micro y Nanoelectrónica del Bicentenario (CMNB)
                  HDMI, FFT configurable en runtime, Protocolo Dali (luminaria
                  inteligente). LED driver.
                  Procesadores PIC, AVR, MIPS.
-                 Conversor Sigma-Delta. IC para cartuchos de impresora reciclados.
+                 Conversor Sigma-Delta.
+                 IC para cartuchos de impresora reciclados.
 * Involucrados:  15+
 * Actualización: 21-03-2016
 
@@ -224,7 +226,8 @@ Pylos
 * Tipo:          empresa
 * Ubicación:     Buenos Aires - Bahía Blanca
 * Web:           www.pylos.com.ar
-* Temas:         Sistemas de control. Desarrollo de cores para FPGA (Xilinx y Actel). VHDL.
+* Temas:         Sistemas de control. Desarrollo de cores para FPGA (Xilinx y
+                 Actel). VHDL.
                  Verificación funcional y code coverage (RTL y Post P&R).
 * Trabajos:      Sistemas de control para Satélites y Radares.
 * Involucrados:  N/A
@@ -407,7 +410,8 @@ Laboratorio de Sistemas Caóticos
 * Ubicación:     Buenos Aires - Mar del Plata
 * Web:           www.fi.mdp.edu.ar
 * Temas:         Implementan sobre FPGAs sistemas alinéales y caóticos.
-* Trabajos:      Mapas caóticos como el sistema de Lorenz, Rossler, mapa Logístico.
+* Trabajos:      Mapas caóticos como el sistema de Lorenz, Rossler, mapa
+                 Logístico.
                  Transmisor y receptor de Espectro Esparcido.
                  Cuantificadores de aleatoriedad de secuencias generadas.
 * Involucrados:  N/A
@@ -481,15 +485,18 @@ Laboratorio de Microelectrónica
 
 Universidad Tecnológica Nacional (UTN)
 Facultad Regional Córdoba (FRC)
-Centro de Investigación y transferencia Acústica (CINTRA) - Unidad Asociada de CONICET
+Centro de Investigación y transferencia Acústica (CINTRA) -
+Unidad Asociada de CONICET
 * Tipo:          universidad
 * Ubicación:     Córdoba
 * Web:           www.investigacion.frc.utn.edu.ar/cintra
 * Temas:         IPs en VHDL, Vivado HLS y MATLAB. Xilinx Virtex IV y Zynq.
-* Trabajos:      Aceleradores de cálculo y módulos de adquisición de datos. Interfaces FSL y AXI.
-                 Downsampling y decodificación PDM a PCM para adquisición de audio desde micrófonos
-                 MEMS digitales, procesamiento de sus señales, cálculos matriciales complejos,
-                 trigonométricos y logarítmicos.
+* Trabajos:      Aceleradores de cálculo y módulos de adquisición de datos.
+                 Interfaces FSL y AXI.
+                 Downsampling y decodificación PDM a PCM para adquisición de
+                 audio desde micrófonos MEMS digitales, procesamiento de sus
+                 señales, cálculos matriciales complejos, trigonométricos y
+                 logarítmicos.
                  Interfaces I2C, I2S, SPI, SPDIF.
 * Involucrados:  ~10
 * Actualización: 05-04-2016
@@ -510,17 +517,18 @@ Centro Universitario de Desarrollo en Automatización y Robótica (CUDAR)
 
 Universidad Tecnológica Nacional (UTN)
 Facultad Regional Mendoza (FRM)
-Laboratorio de Computacion Reconfigurable
+Laboratorio de Computación Reconfigurable
 * Tipo:          universidad
 * Ubicación:     Mendoza
 * Web:           www.frm.utn.edu.ar/lcr
-* Temas:         Utilizan FPGAs para proyectos de investigación.
+* Temas:         Utilizan FPGAs (Xilinx y Altera) para proyectos de
+                 investigación en áreas de navegación y hardware bio-inspirado.
                  Control y DSP. Xilinx, HLS.
 * Trabajos:      Filtro Kalman para sistema de navegación.
                  Autopiloto para Multicóptero para navegación mediante
                  procesamiento de imágenes.
-* Involucrados:  N/A
-* Actualización: 18-03-2016
+* Involucrados:  10+
+* Actualización: 11-04-2016
 
 
 Vanguardia Sur
@@ -551,7 +559,7 @@ Cátedras
   * TD1: VHDL, CPLD, FPGA
     * www.profesores.frc.utn.edu.ar/electronica/tecnicasdigitalesI/
 
-Freelancers:
+Independientes:
 * Jonathan Orrego''
   * Ubicación: Buenos Aires
   * Temas:     Desarrollos con FPGAs.
